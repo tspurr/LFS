@@ -1,0 +1,22 @@
+{
+  "name": "lfs",
+  "version": "0.0.1",
+  "description": "Cross Discord LFS Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tspurr/LFS.git"
+  },
+  "author": "Tyler Spurr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tspurr/LFS/issues"
+  },
+  "homepage": "https://github.com/tspurr/LFS#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
